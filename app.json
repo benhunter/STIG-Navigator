@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "20d2c53e-04ca-42a0-8f20-5bccb8044299"
+      }
+    },
+    "owner": "ben_hunter"
   }
 }
